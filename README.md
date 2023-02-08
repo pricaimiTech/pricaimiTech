@@ -19,7 +19,7 @@ Padrões e Anti padrões de testes
 
 - ⚡ Conhecimentos técnicos: ...
 
-[![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/github-readme-stats)
+[![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/parabank_test)
 
 - 💬 Redes Sociais ...
 
