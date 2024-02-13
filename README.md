@@ -47,7 +47,9 @@ AWS
 
 ## ⚡ Portfólio em Construção
 
-- Análise de Prejeto
+
+[![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=sauceDemoQAPortfolio)](https://github.com/pricaimiTech/sauceDemoQAPortfolio)
+
 
 [![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/parabank_test)
 
@@ -55,6 +57,8 @@ AWS
 <br>
 
 ## 💬 Redes Sociais ...
+
+- [Meu site](https://priscilacaimi.notion.site/Hello-Qualiters-47753df8631746e0920957c628ac3739)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscila.caimi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paraujocaimi/)
