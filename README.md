@@ -42,6 +42,8 @@ AWS
 
 [Curso: Cypress do Zero (2023) Do Cypress Studio ao PageObjects](https://www.udemy.com/course/cypress-do-zero-2023-do-cypress-studio-ao-pageobjects/learn/lecture/39302978?referralCode=582149A71727BC0E9A93#overview)
 
+[Formação Qualiters Club](https://www.qualitersclub.com/comunidade-qualiters-club)
+
 
 <br>
 
@@ -61,10 +63,10 @@ AWS
 - [Meu site](https://priscilacaimi.notion.site/Hello-Qualiters-47753df8631746e0920957c628ac3739)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscila.caimi/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paraujocaimi/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilacaimi/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/priscilacaimi)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@priscila.caimi)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/QAPrisciladeAraujo)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qualitersclub)
 
 
 <br>
