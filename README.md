@@ -26,6 +26,10 @@ Padrões e Anti padrões de testes
 
 AWS
 
+Acompanhe minha jornada de estudo. 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66731bbadf3918909e45556a?variant=dark)](https://roadmap.sh)
+
 <br>
 
 ## 💻 Mentora tech na Udemy com cursos de: 
