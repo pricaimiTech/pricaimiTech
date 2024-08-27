@@ -46,16 +46,18 @@ Acompanhe minha jornada de estudo.
 
 [Curso: Cypress do Zero (2023) Do Cypress Studio ao PageObjects](https://www.udemy.com/course/cypress-do-zero-2023-do-cypress-studio-ao-pageobjects/learn/lecture/39302978?referralCode=582149A71727BC0E9A93#overview)
 
-[Formação Qualiters Club](https://www.qualitersclub.com/comunidade-qualiters-club)
+[Formação Qualiters Club](https://qualitersclub.com)
 
 
 <br>
 
 ## ⚡ Portfólio em Construção
 
+[![Wiki Portfólio QA](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=portfolioforQA)](https://github.com/pricaimiTech/portfolioforQA)
 
-[![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=sauceDemoQAPortfolio)](https://github.com/pricaimiTech/sauceDemoQAPortfolio)
+[![Teste de API com Jest e Performance com K6](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=serverRestApiPerformance)](https://github.com/pricaimiTech/serverRestApiPerformance)
 
+[![Automação Web com Cypress](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=automationpractice-cypress)](https://github.com/pricaimiTech/automationpractice-cypress)
 
 [![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/parabank_test)
 
@@ -64,7 +66,7 @@ Acompanhe minha jornada de estudo.
 
 ## 💬 Redes Sociais ...
 
-- [Meu site](https://priscilacaimi.notion.site/Hello-Qualiters-47753df8631746e0920957c628ac3739)
+- [Meu site](https://qualitersclub.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscila.caimi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilacaimi/)
