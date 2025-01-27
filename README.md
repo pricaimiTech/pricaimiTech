@@ -25,17 +25,8 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 
 <br>
 
-## 💻 Estude comigo:
 
-[Udemy](https://linktr.ee/qualitersclub)
-[Qualiters Club](http://qualitersclub.com)
-
-
-
-
-<br>
-
-## ⚡ Portfólio em Construção
+## ⚡ Portfólio QA
 
 [![Wiki Portfólio QA](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=portfolioforQA)](https://github.com/pricaimiTech/portfolioforQA)
 
@@ -48,15 +39,28 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 
 <br>
 
+## ⚡ Portfólio Desenvolvimento 
+
+[![Guess The Number](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=guessTheNumber)](https://github.com/pricaimiTech/guessTheNumber) 
+
+
 ## 💬 Redes Sociais ...
 
-- [Meu site](https://qualitersclub.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscila.caimi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilacaimi/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/priscilacaimi)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@priscila.caimi)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qualitersclub)
+
+
+<br>
+
+## 💻 Estude comigo:
+
+[Udemy](https://linktr.ee/qualitersclub)
+[Qualiters Club](http://qualitersclub.com)
+
+
 
 
 <br>
