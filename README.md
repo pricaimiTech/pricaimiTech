@@ -29,11 +29,8 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 ## ⚡ Portfólio QA
 
 [![Wiki Portfólio QA](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=portfolioforQA)](https://github.com/pricaimiTech/portfolioforQA)
-
 [![Teste de API com Jest e Performance com K6](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=serverRestApiPerformance)](https://github.com/pricaimiTech/serverRestApiPerformance)
-
 [![Automação Web com Cypress](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=automationpractice-cypress)](https://github.com/pricaimiTech/automationpractice-cypress)
-
 [![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/parabank_test)
 
 
