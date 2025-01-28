@@ -42,6 +42,7 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 ## ⚡ Portfólio Desenvolvimento 
 
 [![Guess The Number](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=guessTheNumber)](https://github.com/pricaimiTech/guessTheNumber) 
+[![Sorteador de número](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=number-drawer)](https://github.com/pricaimiTech/number-drawer) 
 
 
 ## 💬 Redes Sociais ...
