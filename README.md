@@ -26,13 +26,17 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 <br>
 
 
-## ⚡ Portfólio QA
+## ⚡ Automação Web
 
-[![Wiki Portfólio QA](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=portfolioforQA)](https://github.com/pricaimiTech/portfolioforQA)
+[![Automação Web: Automation Practice](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=automationpractice-cypress)](https://github.com/pricaimiTech/automationpractice-cypress)
+[![Automação Web: Saucedemo](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=asauceDemoQAPortfolio)](https://github.com/pricaimiTech/sauceDemoQAPortfolio)
+
+
+<br>
+
+## ⚡ API
+
 [![Teste de API com Jest e Performance com K6](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=serverRestApiPerformance)](https://github.com/pricaimiTech/serverRestApiPerformance)
-[![Automação Web com Cypress](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=automationpractice-cypress)](https://github.com/pricaimiTech/automationpractice-cypress)
-[![Portfólio Card](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=parabank_test)](https://github.com/pricaimiTech/parabank_test)
-
 
 <br>
 
