@@ -29,7 +29,7 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 ## ⚡ Automação Web
 
 [![Automação Web: Automation Practice](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=automationpractice-cypress)](https://github.com/pricaimiTech/automationpractice-cypress)
-[![Automação Web: Saucedemo](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=asauceDemoQAPortfolio)](https://github.com/pricaimiTech/sauceDemoQAPortfolio)
+[![Automação Web: Saucedemo](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=sauceDemoQAPortfolio)](https://github.com/pricaimiTech/sauceDemoQAPortfolio)
 
 
 <br>
