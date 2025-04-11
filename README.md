@@ -58,7 +58,7 @@ Hoje a Priscila criou a sua marca Qualiters Club onde além de criar conteúdos 
 
 ## ⚡ Portfólio Desenvolvimento 
 
-[![Bot Alerta de Trend Viral Youtube/Discord](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=dev-bot-api-rest-js-watchYoutube)]
+[![Bot Alerta de Trend Viral Youtube/Discord](https://github-readme-stats.vercel.app/api/pin/?username=pricaimiTech&repo=dev-bot-api-rest-js-watchYoutube)](https://github.com/pricaimiTech/dev-bot-api-rest-js-watchYoutube)
 
 
 
